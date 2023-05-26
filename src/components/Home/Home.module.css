@@ -1,0 +1,37 @@
+.HomeBgImg{
+    background-image: url("../../assets/images/background.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.shadow{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   background: rgba(0, 0, 0, 0.6);
+   position: relative;
+}
+
+.chefImagediv{
+    width: 500px;
+    height: 100%;
+   
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+}
+
+.shefimg{
+    width: 100%;
+    height: 100%;
+}
+
+.heroTextDiv{
+    position: absolute;
+    padding-top: 150px;
+    padding-left: 150px;
+}
